@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebApp_Bugeto
+build_property.ProjectDir = D:\Learn\Asp.Net Core5 Pro\02 Unit Test\05-06 Moq Training\Src\Mock_Bugeto\WebApp_Bugeto\

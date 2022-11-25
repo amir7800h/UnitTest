@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_BugetoTest\\WebApp_BugetoTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_BugetoTest\\WebApp_BugetoTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_BugetoTest\\WebApp_BugetoTest.csproj",
+        "projectName": "WebApp_BugetoTest",
+        "projectPath": "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_BugetoTest\\WebApp_BugetoTest.csproj",
+        "packagesPath": "C:\\Users\\09361886750\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_BugetoTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\09361886750\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\09361886750\\.nuget\\packages\\buildbundlerminifier\\2.1.285": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_Bugeto\\WebApp_Bugeto.csproj": {
+                "projectPath": "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_Bugeto\\WebApp_Bugeto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_Bugeto\\WebApp_Bugeto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_Bugeto\\WebApp_Bugeto.csproj",
+        "projectName": "WebApp_Bugeto",
+        "projectPath": "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_Bugeto\\WebApp_Bugeto.csproj",
+        "packagesPath": "C:\\Users\\09361886750\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\09361886750\\Source\\Repos\\Mock_Bugeto\\WebApp_Bugeto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\09361886750\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\09361886750\\.nuget\\packages\\buildbundlerminifier\\2.1.285": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
